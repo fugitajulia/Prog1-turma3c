@@ -1,0 +1,23 @@
+*{
+ margin:0% ;
+padding:0%;
+}
+.cabeçalho{
+background-color: black;   
+color: aliceblue;
+}
+.cabeçalho-titulo{
+font-size: 60px;
+text-align: center;
+}
+.cabeçalho-subtitulo{
+text-align: center;    
+}
+.seção-introdução{
+background-color: black;
+color: aliceblue;
+}
+.paragrafo-introdução{
+
+    
+}
