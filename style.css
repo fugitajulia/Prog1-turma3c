@@ -18,6 +18,11 @@ background-color: black;
 color: aliceblue;
 }
 .paragrafo-introdução{
-
-    
+text-align: justify;
+font-size: 30%;
+}
+.lista-paginas-secundarias{
+background-color: black;
+color: aliceblue;
+justify-content: space-around;
 }
