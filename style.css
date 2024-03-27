@@ -7,7 +7,6 @@ background-color: black;
 color: rgb(238, 238, 238);
 }
 .cabeçalho titulo{
-background-color: black;
 font-size: 60px;
 text-align: center;
 }
@@ -15,12 +14,15 @@ text-align: center;
 text-align: center;    
 }
 .seção introdução{
-background-color: black;
-color: rgb(16, 61, 100);
-}
-.paragrafo introdução{
 text-align: justify;
-font-size: 30%;
+ margin: 20px;  
+padding: 20px;
+font-size: 30px;
+}
+.foto turma{
+width: 100px;;  
+}
+
 }
 .lista paginas secundarias{
 background-color: black;
