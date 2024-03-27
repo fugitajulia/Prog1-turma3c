@@ -4,7 +4,7 @@ padding:0%;
 }
 .cabeçalho{
 background-color: black;   
-color: aliceblue;
+color: rgb(238, 238, 238);
 }
 .cabeçalho titulo{
 font-size: 60px;
@@ -15,7 +15,7 @@ text-align: center;
 }
 .seção introdução{
 background-color: black;
-color: aliceblue;
+color: rgb(16, 61, 100);
 }
 .paragrafo introdução{
 text-align: justify;
