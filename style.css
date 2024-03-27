@@ -10,18 +10,18 @@ color: aliceblue;
 font-size: 60px;
 text-align: center;
 }
-.cabeçalho-subtitulo{
+.cabeçalho subtitulo{
 text-align: center;    
 }
-.seção-introdução{
+.seção introdução{
 background-color: black;
 color: aliceblue;
 }
-.paragrafo-introdução{
+.paragrafo introdução{
 text-align: justify;
 font-size: 30%;
 }
-.lista-paginas-secundarias{
+.lista paginas secundarias{
 background-color: black;
 color: aliceblue;
 justify-content: space-around;
